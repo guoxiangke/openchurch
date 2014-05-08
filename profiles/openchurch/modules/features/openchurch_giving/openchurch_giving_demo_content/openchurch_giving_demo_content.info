@@ -1,0 +1,15 @@
+name = "Openchurch Giving Demo Content"
+description = "Sample charity content for the Openchurch Giving app"
+core = "7.x"
+package = "Openchurch"
+php = "5.2.4"
+version = "7.x-1.0-alpha1"
+project = "openchurch_giving"
+dependencies[] = "openchurch_giving"
+features[content][] = "oc_charity1"
+; Information added by Drupal.org packaging script on 2014-03-22
+version = "7.x-1.12"
+core = "7.x"
+project = "openchurch"
+datestamp = "1395495262"
+
