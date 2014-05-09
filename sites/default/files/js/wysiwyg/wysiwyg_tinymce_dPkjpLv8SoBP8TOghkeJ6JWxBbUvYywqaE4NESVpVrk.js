@@ -1,0 +1,1 @@
+window.tinyMCEPreInit = {"base":"\/openchurch-7.x-1.12\/profiles\/openchurch\/libraries\/tinymce\/jscripts\/tiny_mce","suffix":"","query":""};
